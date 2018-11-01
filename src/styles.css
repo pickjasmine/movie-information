@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.movie-previews {
+    width: 200%;
+    height: 35vh;
+    overflow-x: scroll;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.preview-button {
+    width: fit-content;
+    flex: 1;
+}
+
+.movie-information {
+    height: 55vh;
+    width: 100%;
+    position: fixed;
+    padding: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.movie-text p {
+    flex: 2;
+}
+
+.poster-image {
+    flex: 1;
+    margin: 0 20px;
+}
+
