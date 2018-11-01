@@ -6,7 +6,7 @@ export const movies = [
     "rating": 9.3,
     "director": "Frank Darabont",
     "releaseYear": 1994,
-    "category": [
+    "categories": [
       "drama"
     ]
   },
@@ -17,7 +17,7 @@ export const movies = [
     "rating": 9.2,
     "director": "Francis Ford Coppola",
     "releaseYear": 1972,
-    "category": [
+    "categories": [
       "drama",
       "crime"
     ]
@@ -29,7 +29,7 @@ export const movies = [
     "rating": 9.0,
     "director": "Francis Ford Coppola",
     "releaseYear": 1974,
-    "category": [
+    "categories": [
       "drama",
       "crime"
     ]
@@ -41,7 +41,7 @@ export const movies = [
     "rating": 9.0,
     "director": "Christopher Nolan",
     "releaseYear": 2008,
-    "category": [
+    "categories": [
       "drama",
       "crime",
       "action"
@@ -54,7 +54,7 @@ export const movies = [
     "rating": 8.9,
     "director": "Sidney Lumet",
     "releaseYear": 1957,
-    "category": [
+    "categories": [
       "drama",
       "crime"
     ]
@@ -66,7 +66,7 @@ export const movies = [
     "rating": 8.9,
     "director": "Steven Spielberg",
     "releaseYear": 1993,
-    "category": [
+    "categories": [
       "biography",
       "drama",
       "history"
@@ -79,7 +79,7 @@ export const movies = [
     "rating": 8.9,
     "director": "Peter Jackson",
     "releaseYear": 2003,
-    "category": [
+    "categories": [
       "action",
       "drama",
       "adventure"
@@ -92,7 +92,7 @@ export const movies = [
     "rating": 8.9,
     "director": "Quentin Tarantino",
     "releaseYear": 1994,
-    "category": [
+    "categories": [
       "drama",
       "crime"
     ]
@@ -104,7 +104,7 @@ export const movies = [
     "rating": 8.9,
     "director": "Sergio Leone",
     "releaseYear": 1966,
-    "category": [
+    "categories": [
       "western"
     ]
   },
@@ -115,7 +115,7 @@ export const movies = [
     "rating": 8.8,
     "director": "David Fincher",
     "releaseYear": 1999,
-    "category": [
+    "categories": [
       "drama"
     ]
   }
