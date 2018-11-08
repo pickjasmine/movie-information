@@ -35,7 +35,7 @@ class App extends Component {
                                 currentMovie={this.state.currentMovie}
                             />
                             :
-                            <div>
+                            <div className="select-movie">
                                 <p>Select a movie to see more information.</p>
                             </div>
                     }

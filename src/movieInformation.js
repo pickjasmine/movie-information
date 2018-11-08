@@ -15,12 +15,12 @@ class MovieInformation extends Component {
                     />
                 </div>
                 <div className="movie-text">
-                    <p>{currentMovie.title}</p>
-                    <p>Rating: {currentMovie.rating}/10</p>
-                    <p>Description: {currentMovie.description}</p>
-                    <p>Director: {currentMovie.director}</p>
+                    <p className="movie-title">{currentMovie.title}</p>
                     <p>Release Year: {currentMovie.releaseYear}</p>
+                    <p>Director: {currentMovie.director}</p>
                     <p>Categories: {currentMovie.categories.join(',')}</p>
+                    <p>Description: {currentMovie.description}</p>
+                    <p>Rating: {currentMovie.rating}/10</p>
                 </div>
             </div>
         );
